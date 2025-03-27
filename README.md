@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-    <h2>Spaghetti Coded Dotfiles for Hyprland made with AGS</h2>
+    <h2>(Real) Spaghetti Coded Dotfiles for Hyprland made with AGS (and shitty buggy JSON)</h2>
 </div>
 
 
