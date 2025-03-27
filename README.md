@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>☀️ HyprNoon ☀️ by Pharmaracist</h1>
+    <h1>☀️ HyprNoon ☀️ <del>by Pharmaracist</del> backup by enessmr</h1>
     <p align="center">
       <img width="40%" src="resources/logo.png">
     </p>
